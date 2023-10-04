@@ -11,7 +11,7 @@ public class coinToss2 {
             return;
         }
         if ( ans.length()==0 ||ans.charAt(ans.length()-1)!= 'H'){
-
+        coinToss(n-1,ans+"H");
         }
         coinToss(n-1, ans+"T");
     }
