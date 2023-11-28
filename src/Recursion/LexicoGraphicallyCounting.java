@@ -2,7 +2,7 @@ package Recursion;
 
 public class LexicoGraphicallyCounting {
     public static void main(String[] args) {
-        int n = 100;
+        int n = 100 ;
         Counting(n, 0);
 
 

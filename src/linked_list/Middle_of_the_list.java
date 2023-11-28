@@ -1,6 +1,6 @@
 package linked_list;
 
-public class Middle_of_the_list {
+public class  Middle_of_the_list {
     public class ListNode {
         int val;
         ListNode next;
